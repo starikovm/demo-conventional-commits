@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.2.0...v2.0.0) (2022-02-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core:** some breaking change
+
+### Features
+
+* **core:** another update ([0ad1382](https://github.com/mokkapps/changelog-generator-demo/commits/0ad1382d6b0cda3392fd8a911da0481dde75b3df))
+* **core:** another update ([ccb599c](https://github.com/mokkapps/changelog-generator-demo/commits/ccb599c249605a73215cbd1232537004cfa850a5))
+
 ## [1.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.1.0...v1.2.0) (2022-02-08)
 
 
