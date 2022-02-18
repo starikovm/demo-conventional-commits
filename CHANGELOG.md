@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.0.0...v3.0.0) (2022-02-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* some breaking change
+
+* * feat(core): another update
+ - some other updates idk
+
+* * fix(core): another update
+ - some other updates idk
+
+Co-authored-by: mikhailstarikov <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>
+
+* Test squash commits (#1) ([259df5b](https://github.com/mokkapps/changelog-generator-demo/commits/259df5bb43a205a66e3a477612abb4cb8898d916)), closes [#1](https://github.com/starikovm/demo-conventional-commits/issues/1)
+
 ## [2.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.2.0...v2.0.0) (2022-02-09)
 
 
