@@ -7,7 +7,7 @@
   "scripts": {
     "prepare": "husky install",
     "release": "standard-version",
-    "release:minor12313": "standard-version --release-as minor",
+    "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
     "release:major": "standard-version --release-as major"
   },
